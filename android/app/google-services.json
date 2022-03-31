@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759134201760",
+    "project_id": "getwagee",
+    "storage_bucket": "getwagee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759134201760:android:02ce72e314d8af17f266c5",
+        "android_client_info": {
+          "package_name": "com.example.getwage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759134201760-lmkgndv08okvhlr8ul3f09vd7rgopdv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getwage",
+            "certificate_hash": "2b843a5bd55dbd5cdfaad8cbbc535d1e2ead0adc"
+          }
+        },
+        {
+          "client_id": "759134201760-g1od7k4ebg3gl9mlfek22fp67tr89a63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5SmH1Za-2ngBCN5kWSTYTqxiZRmqb_d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759134201760-g1od7k4ebg3gl9mlfek22fp67tr89a63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
